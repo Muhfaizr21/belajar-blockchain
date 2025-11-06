@@ -1,0 +1,11 @@
+[
+  {
+    "inputs": [
+      { "internalType": "string", "name": "_hashData", "type": "string" }
+    ],
+    "name": "logExpense",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
